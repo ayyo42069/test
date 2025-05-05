@@ -1,0 +1,1 @@
+Register/login page with modern design. Stack: better-auth, PostgreSQL (no ORM). Email verification using provided SMTP env values. Use shadcdn and TailwindCSS v4.1. PostgreSQL connection string provided in env. All previous files removed; start from scratch.
